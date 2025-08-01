@@ -1,6 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://dotsatya.github.io/Formal-Portfolio/)
 <h1 align="center">Hi 👋, I'm Satya Sundar Dey</h1>
-<h3 align="center">I'm a passionate Full Stack Developer & Graphic Designer from India, crafting responsive web experiences with a touch of visual flair. Skilled in JavaScript, React, TypeScript, and currently diving into Hono for backend development. Whether it's code or color, I love turning raw ideas into sleek, functional, and aesthetic digital products.</h3>
+<h3 align="center">I'm Satya Sundar Dey, a passionate Frontend Developer and tech enthusiast from India. Skilled in HTML, CSS, JavaScript, and ReactJS, with a solid base in C, C++, and Java. I’m currently pursuing a B.Tech in Information Technology (2022–2026) at Kalyani Government Engineering College and working as a Web Development Intern at DAS SOLUTIONS.
+
+With a love for clean UI and smooth UX, I enjoy building responsive, user-friendly websites and cloning real-world platforms to sharpen my skills. Now diving into backend development, I'm driven to become a full-stack developer who delivers impactful and innovative digital experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
