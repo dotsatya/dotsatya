@@ -1,13 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,30,39&text=SATYA%20SUNDAR%20DEY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,30,59&text=SATYA%20SUNDAR%20DEY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT&descSize=18&descAlignY=55&textBg=false"/>
 
 
-<h1 align="center">Hi 👋, I'm Satya Sundar Dey</h1>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dotsatya">
+    <img src="https://komarev.com/ghpvc/?username=dotsatya&label=Profile%20views&color=00FFFF&style=flat-square" alt="dotsatya's profile views" />
+  </a>
+</p>
 
-<h3 align="center">I'm Satya Sundar Dey, a passionate Full-Stack Developer and tech enthusiast from India. Skilled in HTML, CSS, JavaScript, and ReactJS, with a solid base in C, C++, and Java. I’m currently pursuing a B.Tech in Information Technology (2022–2026) at Kalyani Government Engineering College and working as a Web Development Intern at DAS SOLUTIONS.With a love for clean UI and smooth UX, I enjoy building responsive, user-friendly websites and cloning real-world platforms to sharpen my skills. Now diving into backend development, I'm driven to become a full-stack developer who delivers impactful and innovative digital experiences.</h3>
+
+---
+
+<p align="center">
+  💻 Web Developer <br/>
+  🎓 B.Tech in Information Technology <br/>
+  🏫 Kalyani Government Engineering College
+</p>
+
+<p align="center">
+  Full-Stack Developer skilled in React.js, Node.js, and SQL, with experience building responsive UIs, <br/>
+  integrating APIs, and delivering production-ready web applications.
+</p>
+
+---
+
+## 🚀 What I Do
+- 🎨 Build clean, modern, and responsive user interfaces  
+- ⚡ Develop full-stack web applications using React & Node.js  
+- 🔌 Integrate APIs and optimize application performance  
+- 🧠 Continuously learning new technologies and best practices  
+- 🤝 Open to internships, freelance work, and collaborative projects  
+
+---
 
 
-
-### 🌐 **Socials**
+### 🌐 **Connect with Me**
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/satyasundardey) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100087912664641) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dot_satya) 
@@ -32,3 +58,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dotsatya&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
