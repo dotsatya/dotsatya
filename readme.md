@@ -59,7 +59,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dotsatya&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
+---
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dotsatya&theme=radical&radius=10" alt="dotsatya's Activity Graph" />
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
