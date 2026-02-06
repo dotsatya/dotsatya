@@ -10,16 +10,21 @@
 
 ---
 
-<p align="center">
-  💻 Web Developer <br/>
-  🎓 B.Tech in Information Technology <br/>
-  🏫 Kalyani Government Engineering College
-</p>
+<img align="right" alt="coding" width="400"
+     src="https://bytefish.medium.com/a-detailed-explanation-of-alan-beckers-animation-vs-coding-a594aedb1d0a" />
 
-<p align="center">
-  Full-Stack Developer skilled in React.js, Node.js, and SQL, with experience building responsive UIs, <br/>
-  integrating APIs, and delivering production-ready web applications.
-</p>
+### 👨‍💻 About Me
+
+💻 **Web Developer**  
+🎓 **B.Tech in Information Technology**  
+🏫 **Kalyani Government Engineering College**
+
+Full-Stack Developer skilled in **React.js, Node.js, and SQL**,  
+with experience building responsive UIs, integrating APIs,  
+and delivering production-ready web applications.
+
+<br clear="both" />
+
 
 ---
 
