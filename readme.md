@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=630&text=SATYA%20SUNDAR%20DEY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,30,59&text=SATYA%20SUNDAR%20DEY&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT&descSize=18&descAlignY=55&textBg=false"/>
 
 
 <p align="center">
@@ -53,11 +53,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=dotsatya&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dotsatya&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dotsatya&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dotsatya&theme=nord&no-frame=true&no-bg=true&margin-w=4) -->
 
 ---
 
