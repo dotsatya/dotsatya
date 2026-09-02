@@ -6,7 +6,7 @@
 ### **_👨‍💻 About Me_**
 
 💻 Full-Stack Developer <br>
-🎓 B.Tech in Information Technology from KGEC<br>
+🎓 B.Tech in Information Technology from KGEC '26<br>
 💼 Ex-Web Development Intern at DAS SOLUTIONS<br>
 📍 Kolkata, West Bengal, India<br>
 
