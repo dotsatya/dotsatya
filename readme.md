@@ -6,8 +6,9 @@
 ### **_👨‍💻 About Me_**
 
 💻 Full-Stack Developer <br>
-🎓 B.Tech in Information Technology<br>
-🏫 Kalyani Government Engineering College
+🎓 B.Tech in Information Technology from KGEC<br>
+💼 Ex-Web Development Intern at DAS SOLUTIONS<br>
+📍 Kolkata, West Bengal, India<br>
 
 Full-Stack Developer skilled in **Next.js, Node.js, and MySQL**, with experience building responsive UIs, integrating APIs, and delivering production-ready web applications.
 
