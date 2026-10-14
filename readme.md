@@ -87,5 +87,5 @@ Full-Stack Developer skilled in **Next.js, Node.js, and MySQL**, with experience
 </picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dotsatya&style=flat-square&color=000000&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=dotsatya" />
 </p>
