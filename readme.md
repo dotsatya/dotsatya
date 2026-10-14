@@ -28,6 +28,7 @@ Full-Stack Developer skilled in **Next.js, Node.js, and MySQL**, with experience
 
 ### 💻 _Tech Stack:_
 
+
 <table width="100%">
   <thead>
     <tr>
@@ -40,16 +41,24 @@ Full-Stack Developer skilled in **Next.js, Node.js, and MySQL**, with experience
   <tbody>
     <tr>
       <td align="center">
-        <kbd>C++</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Java</kbd>
+        <kbd>C</kbd> <kbd>C++</kbd>
+        <kbd>JavaScript</kbd> <kbd>TypeScript</kbd>
       </td>
       <td align="center">
-        <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd>
+        <kbd>React</kbd> <kbd>Next.js</kbd>
+        <kbd>Angular</kbd> <kbd>React Native</kbd>
+        <kbd>Node.js</kbd> <kbd>Express.js</kbd>
       </td>
       <td align="center">
-        <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Linux</kbd> <kbd>MySQL</kbd> <kbd>Vercel</kbd> <kbd>DevOps</kbd>
+        <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Linux</kbd>
+        <kbd>MySQL</kbd> <kbd>MongoDB</kbd>
+        <kbd>Vercel</kbd> <kbd>DevOps</kbd>
       </td>
       <td align="center">
-        <kbd>VS Code</kbd> <kbd>Figma</kbd> <kbd>Canva</kbd> <kbd>Photoshop</kbd> <kbd>Illustrator</kbd> <kbd>Premiere Pro</kbd>
+        <kbd>VS Code</kbd> <kbd>Antigravity</kbd>
+        <kbd>Figma</kbd> <kbd>Canva</kbd>
+        <kbd>Photoshop</kbd> <kbd>Illustrator</kbd>
+        <kbd>Premiere Pro</kbd>
       </td>
     </tr>
   </tbody>
