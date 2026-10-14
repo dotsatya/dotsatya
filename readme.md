@@ -86,6 +86,7 @@ Full-Stack Developer skilled in **Next.js, Node.js, and MySQL**, with experience
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dotsatya" />
+  <img src="https://komarev.com/ghpvc/?username=dotsatya&style=flat-square&color=blue" alt="Profile views" />
 </p>
